@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeroTickets.WinForms", "AeroTickets.WinForms\AeroTickets.WinForms.csproj", "{BF0CF41A-51BC-47A9-AD04-7841D339CD8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AeroTickets.ClassLibrary", "AeroTickets.ClassLibrary\AeroTickets.ClassLibrary.csproj", "{95BF0520-5C15-439A-B031-8DD5E6BE9E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF0CF41A-51BC-47A9-AD04-7841D339CD8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF0CF41A-51BC-47A9-AD04-7841D339CD8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF0CF41A-51BC-47A9-AD04-7841D339CD8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF0CF41A-51BC-47A9-AD04-7841D339CD8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95BF0520-5C15-439A-B031-8DD5E6BE9E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95BF0520-5C15-439A-B031-8DD5E6BE9E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95BF0520-5C15-439A-B031-8DD5E6BE9E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95BF0520-5C15-439A-B031-8DD5E6BE9E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B97E624-0AD3-40D7-974E-D5A17D2A07FB}
+	EndGlobalSection
+EndGlobal
