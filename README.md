@@ -1,4 +1,4 @@
-# ✈️ AeroTickets
+﻿# ✈️ AeroTickets
 
 AeroTickets is a .NET 6 WinForms desktop application developed as part of a professional training course.
 
@@ -60,4 +60,46 @@ Build and run:
 
 ## 📸 Screenshots
 
-(working on it...)
+### Start Screen
+
+The About dropup is toggled on click. It starts closed, but is opened here to show the content.
+
+![Start Screen with About dropup](./screenshots/start-screen-about.png)
+
+### Search Flight
+
+Flights may be found by searching for specific fields.
+
+![Search Flight form](./screenshots/search-flight.png)
+
+### Flight Selection
+
+Double-clicking a flight opens the new Ticket form, with the Flight already selected.
+
+![Results screen with one selected Flight](./screenshots/search-results.png)
+
+### New Ticket
+
+Seat 7 is taken.
+
+![New Ticket form with Seat 7 taken](./screenshots/new-ticket-seat-taken.png)
+
+Seat 6 is available.
+
+![New Ticket form with Seat 6 available](./screenshots/new-ticket-seat-available.png)
+
+### Ticket List
+
+The newly created ticket is listed here.
+
+![Ticket List showing the new ticket](./screenshots/tickets-with-new-one.png)
+
+### Editing an Airplane
+
+![Edit Airplane form](./screenshots/edit-airplane.png)
+
+### Deleting an Airport
+
+Deleting any data requires confirmation.
+
+![Delete Airport confirmation](./screenshots/confirm-delete-airport.png)
